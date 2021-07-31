@@ -1,4 +1,0 @@
-C:\Users\Eric\Documents\Visual Studio 2013\Projects\BinaryParFile\BinaryParFile\bin\Release\BinaryParFile.exe
-C:\Users\Eric\Documents\Visual Studio 2013\Projects\BinaryParFile\BinaryParFile\bin\Release\BinaryParFile.pdb
-C:\Users\Eric\Documents\Visual Studio 2013\Projects\BinaryParFile\BinaryParFile\obj\Release\BinaryParFile.exe
-C:\Users\Eric\Documents\Visual Studio 2013\Projects\BinaryParFile\BinaryParFile\obj\Release\BinaryParFile.pdb
