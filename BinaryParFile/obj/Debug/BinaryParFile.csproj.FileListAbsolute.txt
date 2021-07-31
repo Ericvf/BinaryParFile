@@ -1,0 +1,11 @@
+c:\users\eric\documents\visual studio 2013\Projects\BinaryParFile\BinaryParFile\bin\Debug\BinaryParFile.exe
+c:\users\eric\documents\visual studio 2013\Projects\BinaryParFile\BinaryParFile\bin\Debug\BinaryParFile.pdb
+c:\users\eric\documents\visual studio 2013\Projects\BinaryParFile\BinaryParFile\obj\Debug\BinaryParFile.exe
+c:\users\eric\documents\visual studio 2013\Projects\BinaryParFile\BinaryParFile\obj\Debug\BinaryParFile.pdb
+C:\Users\Eric\Documents\Visual Studio 2013\Projects\BinaryParFile\BinaryParFile\obj\Debug\BinaryParFile.csprojResolveAssemblyReference.cache
+G:\github\BinaryParFile\BinaryParFile\bin\Debug\BinaryParFile.exe
+G:\github\BinaryParFile\BinaryParFile\bin\Debug\BinaryParFile.pdb
+G:\github\BinaryParFile\BinaryParFile\obj\Debug\BinaryParFile.csproj.AssemblyReference.cache
+G:\github\BinaryParFile\BinaryParFile\obj\Debug\BinaryParFile.csproj.CoreCompileInputs.cache
+G:\github\BinaryParFile\BinaryParFile\obj\Debug\BinaryParFile.exe
+G:\github\BinaryParFile\BinaryParFile\obj\Debug\BinaryParFile.pdb
